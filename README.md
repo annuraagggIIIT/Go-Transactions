@@ -18,11 +18,22 @@ The Go Transactions project is a robust GoLang application designed to manage tr
 
 ## Features
 
-Cashier Management: Easily create, update, retrieve, and delete cashier details.
-Category Management: Efficiently manage and categorize transactions to enhance organization.
-Payment Processing: Streamline payment-related tasks with comprehensive payment creation and retrieval functionalities.
-Detailed Reporting: Gain insights into your system's financial activities through detailed revenue and sales reports.
+### Cashier Management
+Easily create, update, retrieve, and delete cashier details.
+
+### Category Management
+Efficiently manage and categorize transactions to enhance organization.
+
+### Payment Processing
+Streamline payment-related tasks with comprehensive payment creation and retrieval functionalities.
+
+### Detailed Reporting
+Gain insights into your system's financial activities through detailed revenue and sales reports.
+
+## Project Emphasis
 The project emphasizes scalability, flexibility, and simplicity, making it an ideal solution for businesses seeking an effective transaction management system implemented in GoLang.
+
+---
 
 
 
